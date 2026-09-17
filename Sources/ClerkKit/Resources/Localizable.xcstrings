@@ -98,6 +98,12 @@
             "state" : "translated",
             "value" : "已有托管身份验证会话正在进行。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已有代管驗證程序正在進行中。"
+          }
         }
       }
     },
@@ -198,6 +204,12 @@
             "state" : "translated",
             "value" : "Watch 身份元数据转换仍处于待处理状态。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Watch 身分中繼資料的轉換仍在等待中。"
+          }
         }
       }
     },
@@ -297,6 +309,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "已有网页身份验证会话正在进行。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已有網頁驗證程序正在進行中。"
           }
         }
       }
@@ -400,6 +418,12 @@
             "state" : "translated",
             "value" : "发生未知错误。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "發生不明的錯誤。"
+          }
         }
       }
     },
@@ -501,6 +525,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "生物识别登录未返回质询。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "生物辨識登入未回傳驗證要求。"
           }
         }
       }
@@ -604,6 +634,12 @@
             "state" : "translated",
             "value" : "生物识别登录不可用。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "目前無法使用生物辨識登入。"
+          }
         }
       }
     },
@@ -703,6 +739,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "无法发布尚未解析的 Watch 身份元数据。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無法發布尚未解析的 Watch 身分中繼資料。"
           }
         }
       }
@@ -804,6 +846,12 @@
             "state" : "translated",
             "value" : "Clerk 已在重新配置。请等待当前重新配置完成后再开始新的配置。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clerk 正在重新設定中。請等待目前的重新設定完成後再開始下一次。"
+          }
         }
       }
     },
@@ -903,6 +951,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "必须先配置 Clerk，才能获取会话令牌。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "必須先完成 Clerk 設定才能取得工作階段權杖。"
           }
         }
       }
@@ -1004,6 +1058,12 @@
             "state" : "translated",
             "value" : "客户端 ID 不可用。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無法取得用戶端 ID。"
+          }
         }
       }
     },
@@ -1103,6 +1163,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "存在冲突的 Watch 身份验证负载重复使用了待处理版本。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "衝突的 Watch 驗證內容重複使用了等待中的版本。"
           }
         }
       }
@@ -1204,6 +1270,12 @@
             "state" : "translated",
             "value" : "存在冲突的 Watch 令牌负载重复使用了待处理版本。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "衝突的 Watch 權杖內容重複使用了等待中的版本。"
+          }
         }
       }
     },
@@ -1303,6 +1375,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "电子邮件地址为必填项。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "必須提供電子郵件地址。"
           }
         }
       }
@@ -1404,6 +1482,12 @@
             "state" : "translated",
             "value" : "此登录流程无法使用电子邮件链接登录。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "這次登入無法使用電子郵件連結登入。"
+          }
         }
       }
     },
@@ -1503,6 +1587,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "托管身份验证回调未包含轮换令牌 nonce。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "代管驗證回呼未包含輪替權杖的 nonce。"
           }
         }
       }
@@ -1604,6 +1694,12 @@
             "state" : "translated",
             "value" : "托管身份验证回调未包含已创建的会话。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "代管驗證回呼未包含已建立的工作階段。"
+          }
         }
       }
     },
@@ -1703,6 +1799,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "托管身份验证回调状态缺失或与启动时的状态不匹配。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "代管驗證回呼的 state 遺失或與發起時的 state 不符。"
           }
         }
       }
@@ -1804,6 +1906,12 @@
             "state" : "translated",
             "value" : "托管身份验证回调 URL 与启动时的重定向 URL 不匹配。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "代管驗證回呼網址與發起時的重新導向網址不符。"
+          }
         }
       }
     },
@@ -1903,6 +2011,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "托管身份验证无法激活已创建的会话。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "代管驗證完成後無法啟用已建立的工作階段。"
           }
         }
       }
@@ -2004,6 +2118,12 @@
             "state" : "translated",
             "value" : "托管身份验证无法更新当前客户端。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "代管驗證完成後無法更新目前的用戶端。"
+          }
         }
       }
     },
@@ -2103,6 +2223,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "托管身份验证完成结果未包含已创建的会话。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "代管驗證完成後未包含已建立的工作階段。"
           }
         }
       }
@@ -2204,6 +2330,12 @@
             "state" : "translated",
             "value" : "托管身份验证完成响应缺少身份同步元数据。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "代管驗證完成的回應中缺少身分同步中繼資料。"
+          }
         }
       }
     },
@@ -2303,6 +2435,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "创建托管身份验证时返回了无效响应。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "建立代管驗證時回傳了無效的回應。"
           }
         }
       }
@@ -2404,6 +2542,12 @@
             "state" : "translated",
             "value" : "托管身份验证需要有效的自定义方案重定向 URL。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "代管驗證需要有效的自訂配置重新導向網址。"
+          }
         }
       }
     },
@@ -2503,6 +2647,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "注入的 Keychain 存储不能用于持久采用共享会话。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "注入的鑰匙圈儲存空間無法與持續性共用工作階段接管一併使用。"
           }
         }
       }
@@ -2604,6 +2754,12 @@
             "state" : "translated",
             "value" : "凭据类型无效。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "憑證類型無效。"
+          }
         }
       }
     },
@@ -2703,6 +2859,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "隔离的 Clerk 配置仅在运行测试时可用。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "獨立的 Clerk 設定僅能在執行測試時使用。"
           }
         }
       }
@@ -2804,6 +2966,12 @@
             "state" : "translated",
             "value" : "魔法链接回调与待处理流程不匹配。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "魔法連結回呼與等待中的流程不符。"
+          }
         }
       }
     },
@@ -2903,6 +3071,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "魔法链接回调缺少 approval_token。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "魔法連結回呼缺少 approval_token。"
           }
         }
       }
@@ -3004,6 +3178,12 @@
             "state" : "translated",
             "value" : "魔法链接回调缺少 flow_id。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "魔法連結回呼缺少 flow_id。"
+          }
         }
       }
     },
@@ -3103,6 +3283,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "魔法链接回调为登录流程返回了注册结果。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "魔法連結回呼在登入流程中回傳了註冊結果。"
           }
         }
       }
@@ -3204,6 +3390,12 @@
             "state" : "translated",
             "value" : "魔法链接回调为注册流程返回了票证。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "魔法連結回呼在註冊流程中回傳了票證。"
+          }
         }
       }
     },
@@ -3303,6 +3495,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "缺少回调 URL"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "缺少回呼網址"
           }
         }
       }
@@ -3404,6 +3602,12 @@
             "state" : "translated",
             "value" : "未找到待处理的魔法链接流程。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "找不到等待中的魔法連結流程。"
+          }
         }
       }
     },
@@ -3503,6 +3707,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "缺少重定向 URI。无法开始通过电子邮件链接登录。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "缺少重新導向 URI，因此無法開始電子郵件連結登入。"
           }
         }
       }
@@ -3604,6 +3814,12 @@
             "state" : "translated",
             "value" : "缺少重定向 URI。无法开始通过电子邮件链接进行注册验证。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "缺少重新導向 URI，因此無法開始電子郵件連結註冊驗證。"
+          }
         }
       }
     },
@@ -3703,6 +3919,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "重定向 URL 缺失或无效。无法启动外部身份验证流程。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重新導向網址遺失或無效，因此無法開始外部驗證流程。"
           }
         }
       }
@@ -3806,6 +4028,12 @@
             "state" : "translated",
             "value" : "会话激活响应缺少身份同步元数据。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "工作階段啟用的回應中缺少身分同步中繼資料。"
+          }
         }
       }
     },
@@ -3905,6 +4133,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "共享会话同步需要非空的应用程序包标识符。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "共用工作階段同步需要非空白的應用程式套件識別碼。"
           }
         }
       }
@@ -4006,6 +4240,12 @@
             "state" : "translated",
             "value" : "共享会话同步需要非空的 Keychain 访问组。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "共用工作階段同步需要非空白的鑰匙圈存取群組。"
+          }
         }
       }
     },
@@ -4105,6 +4345,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "出现问题。请重试。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "發生問題，請再試一次。"
           }
         }
       }
@@ -4207,6 +4453,12 @@
             "state" : "translated",
             "value" : "此设备不再受信任。请使用其他方式登录，以重新注册此设备。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "這個裝置已不再受信任。請改用其他方式登入，以重新登錄這個裝置。"
+          }
         }
       }
     },
@@ -4307,6 +4559,12 @@
             "state" : "translated",
             "value" : "重新配置期间无法清除 Clerk Keychain 项目。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重新設定期間無法清除 Clerk 的鑰匙圈項目。"
+          }
         }
       }
     },
@@ -4406,6 +4664,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "无法删除成员资格：缺少 userId"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無法刪除成員資格：缺少 userId"
           }
         }
       }
@@ -4509,6 +4773,12 @@
             "state" : "translated",
             "value" : "缺少软件包标识符，无法注册生物识别凭据。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "缺少套件識別碼，因此無法登錄生物辨識憑證。"
+          }
         }
       }
     },
@@ -4610,6 +4880,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "当前会话没有用户，无法注册生物识别凭据。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "目前的工作階段沒有使用者，因此無法登錄生物辨識憑證。"
           }
         }
       }
@@ -4713,6 +4989,12 @@
             "state" : "translated",
             "value" : "没有活跃或待处理的 Clerk 会话，无法注册生物识别凭据。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "沒有使用中或等待中的 Clerk 工作階段，因此無法登錄生物辨識憑證。"
+          }
         }
       }
     },
@@ -4812,6 +5094,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "无法生成安全随机数据。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無法產生安全的隨機資料。"
           }
         }
       }
@@ -4913,6 +5201,12 @@
             "state" : "translated",
             "value" : "无法获取通行密钥的质询。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無法取得密碼金鑰的驗證要求。"
+          }
         }
       }
     },
@@ -5012,6 +5306,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "无法获取通行密钥的用户 ID。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無法取得密碼金鑰的使用者 ID。"
           }
         }
       }
@@ -5113,6 +5413,12 @@
             "state" : "translated",
             "value" : "无法获取通行密钥的用户名。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無法取得密碼金鑰的使用者名稱。"
+          }
         }
       }
     },
@@ -5213,6 +5519,12 @@
             "state" : "translated",
             "value" : "无法获取您的 Apple ID 凭据。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無法取得您的 Apple ID 憑證。"
+          }
         }
       }
     },
@@ -5312,6 +5624,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "无法检索 Apple 身份令牌。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無法取得 Apple 身分權杖。"
           }
         }
       }
@@ -5415,6 +5733,12 @@
             "state" : "translated",
             "value" : "没有活跃或待处理的 Clerk 会话，无法撤销生物识别凭据。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "沒有使用中或等待中的 Clerk 工作階段，因此無法撤銷生物辨識憑證。"
+          }
         }
       }
     },
@@ -5515,6 +5839,12 @@
             "state" : "translated",
             "value" : "无法启动网页身份验证会话。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無法開始網頁驗證程序。"
+          }
         }
       }
     },
@@ -5614,6 +5944,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "无法更新成员资格：缺少 userId"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無法更新成員資格：缺少 userId"
           }
         }
       }
@@ -5717,6 +6053,12 @@
             "state" : "translated",
             "value" : "生物识别登录已禁用，无法使用。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "生物辨識登入已停用，因此無法使用。"
+          }
         }
       }
     },
@@ -5818,6 +6160,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Native API 已禁用，无法使用生物识别登录。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "原生 API 已停用，因此無法使用生物辨識登入。"
           }
         }
       }
@@ -5921,6 +6269,12 @@
             "state" : "translated",
             "value" : "Clerk 环境加载前无法使用生物识别登录。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "必須先載入 Clerk 環境才能使用生物辨識登入。"
+          }
         }
       }
     },
@@ -6020,6 +6374,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "无法验证代码，因为未设置第一因素策略。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "尚未設定第一因素驗證方式，因此無法驗證代碼。"
           }
         }
       }
@@ -6121,6 +6481,12 @@
             "state" : "translated",
             "value" : "无法验证策略“%@”的代码。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無法驗證「%@」方式的代碼。"
+          }
         }
       }
     },
@@ -6220,6 +6586,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Watch 身份元数据版本已耗尽。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Watch 身分中繼資料的版本已用盡。"
           }
         }
       }

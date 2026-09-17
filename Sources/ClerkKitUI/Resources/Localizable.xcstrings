@@ -98,6 +98,12 @@
             "state" : "translated",
             "value" : ""
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
         }
       },
       "shouldTranslate" : false
@@ -195,6 +201,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " "
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : " "
@@ -301,6 +313,12 @@
             "state" : "translated",
             "value" : "%@ · 加入日期：%@"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ · 加入日期：%@"
+          }
         }
       }
     },
@@ -400,6 +418,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@将从该账户中移除。您将无法再使用此关联账户登录。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ 將從這個帳號中移除。您將無法再使用這個已連結的帳號登入。"
           }
         }
       }
@@ -501,6 +525,12 @@
             "state" : "translated",
             "value" : "%@将从该账户中移除。您将无法再使用此电子邮件地址登录。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ 將從這個帳號中移除。您將無法再使用這個電子郵件地址登入。"
+          }
         }
       }
     },
@@ -600,6 +630,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@将从该账户中移除。您将无法再使用此密码钥匙登录。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ 將從這個帳號中移除。您將無法再使用這個密碼金鑰登入。"
           }
         }
       }
@@ -701,6 +737,12 @@
             "state" : "translated",
             "value" : "%@将从该账户中移除。您将无法再使用此电话号码登录。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ 將從這個帳號中移除。您將無法再使用這個電話號碼登入。"
+          }
         }
       }
     },
@@ -800,6 +842,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ 将不再在登录时接收验证码。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "登入時將不會再傳送驗證碼至 %@。"
           }
         }
       }
@@ -901,6 +949,12 @@
             "state" : "translated",
             "value" : "将向此电话号码发送包含验证码的短信。可能会收取短信和数据费用。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "系統會傳送含有驗證碼的簡訊至這個電話號碼。可能會產生簡訊與數據傳輸費用。"
+          }
         }
       }
     },
@@ -1000,6 +1054,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "验证码已发送到 %@。输入验证码以继续。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "驗證碼已傳送至 %@。請輸入驗證碼以繼續。"
           }
         }
       }
@@ -1101,6 +1161,12 @@
             "state" : "translated",
             "value" : "接受请求"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "接受要求"
+          }
         }
       }
     },
@@ -1200,6 +1266,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "账户"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "帳號"
           }
         }
       }
@@ -1301,6 +1373,12 @@
             "state" : "translated",
             "value" : "活跃设备"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用中的裝置"
+          }
         }
       }
     },
@@ -1400,6 +1478,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "添加通行密钥"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新增密碼金鑰"
           }
         }
       }
@@ -1501,6 +1585,12 @@
             "state" : "translated",
             "value" : "添加账户"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新增帳號"
+          }
         }
       }
     },
@@ -1600,6 +1690,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "添加身份验证应用"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新增驗證器應用程式"
           }
         }
       }
@@ -1701,6 +1797,12 @@
             "state" : "translated",
             "value" : "添加域名"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新增網域"
+          }
         }
       }
     },
@@ -1800,6 +1902,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "添加电子邮箱地址"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新增電子郵件地址"
           }
         }
       }
@@ -1901,6 +2009,12 @@
             "state" : "translated",
             "value" : "添加密码"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新增密碼"
+          }
         }
       }
     },
@@ -2000,6 +2114,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "添加电话号码"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新增電話號碼"
           }
         }
       }
@@ -2101,6 +2221,12 @@
             "state" : "translated",
             "value" : "添加短信验证码验证"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新增簡訊驗證碼驗證"
+          }
         }
       }
     },
@@ -2201,6 +2327,12 @@
             "state" : "translated",
             "value" : "添加域名以进行验证。具有此域名电子邮件地址的用户可以自动加入组织或请求加入。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新增要驗證的網域。使用這個網域電子郵件地址的使用者可以自動加入組織，或要求加入。"
+          }
         }
       }
     },
@@ -2300,6 +2432,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "添加两步验证"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新增兩步驟驗證"
           }
         }
       }
@@ -2402,6 +2540,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "管理员"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "管理員"
           }
         }
       }
@@ -2509,6 +2653,12 @@
             "state" : "translated",
             "value" : "允许"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "允許"
+          }
         }
       }
     },
@@ -2615,6 +2765,12 @@
             "state" : "translated",
             "value" : "允许使用 %@"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "允許 %@"
+          }
         }
       }
     },
@@ -2715,6 +2871,12 @@
             "state" : "translated",
             "value" : "允许用户根据已验证的电子邮件域名自动加入组织或请求加入。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "依據已驗證的電子郵件網域，允許使用者自動加入組織或要求加入。"
+          }
         }
       }
     },
@@ -2814,6 +2976,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "或者，如果您的身份验证器支持TOTP URI，您也可以复制完整的URI。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "或者，如果您的驗證器支援 TOTP URI，您也可以複製完整的 URI。"
           }
         }
       }
@@ -2922,6 +3090,12 @@
             "state" : "translated",
             "value" : "应用程序"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "應用程式"
+          }
         }
       }
     },
@@ -3024,6 +3198,12 @@
             "state" : "translated",
             "value" : "您确定要删除此组织吗？"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您確定要刪除這個組織嗎？"
+          }
         }
       }
     },
@@ -3123,6 +3303,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "您确定要删除您的账户吗？此操作是永久性的且不可逆转。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您確定要刪除您的帳號嗎？這項操作是永久的，且無法復原。"
           }
         }
       }
@@ -3226,6 +3412,12 @@
             "state" : "translated",
             "value" : "您确定要离开此组织吗？您将失去对此组织及其应用程序的访问权限。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您確定要離開這個組織嗎？您將失去這個組織及其應用程式的存取權。"
+          }
         }
       }
     },
@@ -3327,6 +3519,12 @@
             "state" : "translated",
             "value" : "身份验证器应用"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "驗證器應用程式"
+          }
         }
       }
     },
@@ -3426,6 +3624,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "验证器应用程序验证已启用"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已啟用驗證器應用程式驗證"
           }
         }
       }
@@ -3527,6 +3731,12 @@
             "state" : "translated",
             "value" : "身份验证应用程序"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "驗證器應用程式"
+          }
         }
       }
     },
@@ -3626,6 +3836,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "自动邀请"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自動邀請"
           }
         }
       }
@@ -3727,6 +3943,12 @@
             "state" : "translated",
             "value" : "自动建议"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自動建議"
+          }
         }
       }
     },
@@ -3823,6 +4045,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "返回"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "返回"
@@ -3927,6 +4155,12 @@
             "state" : "translated",
             "value" : "备用码"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "備用碼"
+          }
         }
       }
     },
@@ -4026,6 +4260,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "备用码"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "備用碼"
           }
         }
       }
@@ -4127,6 +4367,12 @@
             "state" : "translated",
             "value" : "备份代码现已启用。如果您无法访问身份验证设备，可以使用其中一个代码登录您的帐户。每个代码只能使用一次。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "備用碼已啟用。如果您無法存取驗證裝置，可以使用其中一組備用碼登入您的帳號。每組備用碼只能使用一次。"
+          }
         }
       }
     },
@@ -4223,6 +4469,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取消"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "取消"
@@ -4327,6 +4579,12 @@
             "state" : "translated",
             "value" : "更改徽标"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "變更標誌"
+          }
         }
       }
     },
@@ -4426,6 +4684,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "更改密码"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "變更密碼"
           }
         }
       }
@@ -4527,6 +4791,12 @@
             "state" : "translated",
             "value" : "更改角色"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "變更角色"
+          }
         }
       }
     },
@@ -4626,6 +4896,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "请检查您的邮箱"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請查看您的電子郵件"
           }
         }
       }
@@ -4727,6 +5003,12 @@
             "state" : "translated",
             "value" : "请查看您的手机"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請查看您的手機"
+          }
         }
       }
     },
@@ -4826,6 +5108,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "选择用户名。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請選擇使用者名稱。"
           }
         }
       }
@@ -4929,6 +5217,12 @@
             "state" : "translated",
             "value" : "选择账户"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "選擇帳號"
+          }
         }
       }
     },
@@ -5031,6 +5325,12 @@
             "state" : "translated",
             "value" : "选择组织"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "選擇組織"
+          }
         }
       }
     },
@@ -5130,6 +5430,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "选择文件"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "選擇檔案"
           }
         }
       }
@@ -5231,6 +5537,12 @@
             "state" : "translated",
             "value" : "从照片库中选择"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "從照片圖庫中選擇"
+          }
         }
       }
     },
@@ -5331,6 +5643,12 @@
             "state" : "translated",
             "value" : "选择此域名的用户如何加入组织。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "選擇這個網域的使用者可以如何加入組織。"
+          }
         }
       }
     },
@@ -5430,6 +5748,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "选择您希望如何接收两步验证码。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "選擇您要接收兩步驟驗證碼的方式。"
           }
         }
       }
@@ -5533,6 +5857,12 @@
             "state" : "translated",
             "value" : "选择您要用于短信代码两步验证的电话号码"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "選擇您要用於簡訊驗證碼兩步驟驗證的電話號碼"
+          }
         }
       }
     },
@@ -5632,6 +5962,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "选择您喜欢的方法来保护您的帐户并提供额外的安全层"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "選擇您偏好的方式，為您的帳號加上額外一層安全防護"
           }
         }
       }
@@ -5733,6 +6069,12 @@
             "state" : "translated",
             "value" : "选择您的密码"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "設定您的密碼"
+          }
         }
       }
     },
@@ -5832,6 +6174,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "选择您的用户名"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "選擇您的使用者名稱"
           }
         }
       }
@@ -5933,6 +6281,12 @@
             "state" : "translated",
             "value" : "关闭"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "關閉"
+          }
         }
       }
     },
@@ -6032,6 +6386,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "完善您的个人资料"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "填寫您的個人資料"
           }
         }
       }
@@ -6133,6 +6493,12 @@
             "state" : "translated",
             "value" : "确认密码"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "確認密碼"
+          }
         }
       }
     },
@@ -6233,6 +6599,12 @@
             "state" : "translated",
             "value" : "连接账户"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "連結帳號"
+          }
         }
       }
     },
@@ -6332,6 +6704,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "关联账户"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已連結的帳號"
           }
         }
       }
@@ -6435,6 +6813,12 @@
             "state" : "translated",
             "value" : "请联系您的组织管理员获取邀请。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請聯絡您的組織管理員以取得邀請。"
+          }
         }
       }
     },
@@ -6534,6 +6918,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "继续"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "繼續"
           }
         }
       }
@@ -6635,6 +7025,12 @@
             "state" : "translated",
             "value" : "继续前往%@"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "繼續前往 %@"
+          }
         }
       }
     },
@@ -6734,6 +7130,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "使用%@继续"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用 %@ 繼續"
           }
         }
       }
@@ -6835,6 +7237,12 @@
             "state" : "translated",
             "value" : "复制到剪贴板"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "複製到剪貼簿"
+          }
         }
       }
     },
@@ -6934,6 +7342,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "创建一个独特的密码。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請建立一組獨一無二的密碼。"
           }
         }
       }
@@ -7037,6 +7451,12 @@
             "state" : "translated",
             "value" : "创建组织"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "建立組織"
+          }
         }
       }
     },
@@ -7136,6 +7556,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "创建您的账户"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "建立您的帳號"
           }
         }
       }
@@ -7237,6 +7663,12 @@
             "state" : "translated",
             "value" : "创建时间：%@"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "建立日期：%@"
+          }
         }
       }
     },
@@ -7336,6 +7768,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "当前密码"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "目前的密碼"
           }
         }
       }
@@ -7437,6 +7875,12 @@
             "state" : "translated",
             "value" : "默认"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "預設"
+          }
         }
       }
     },
@@ -7536,6 +7980,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "删除"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "刪除"
           }
         }
       }
@@ -7637,6 +8087,12 @@
             "state" : "translated",
             "value" : "删除"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "刪除"
+          }
         }
       }
     },
@@ -7737,6 +8193,12 @@
             "state" : "translated",
             "value" : "删除账户"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "刪除帳號"
+          }
         }
       }
     },
@@ -7836,6 +8298,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "删除账户"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "刪除帳號"
           }
         }
       }
@@ -7939,6 +8407,12 @@
             "state" : "translated",
             "value" : "删除组织"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "刪除組織"
+          }
         }
       }
     },
@@ -8039,6 +8513,12 @@
             "state" : "translated",
             "value" : "删除待处理的邀请和建议"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "刪除待處理的邀請與建議"
+          }
         }
       }
     },
@@ -8138,6 +8618,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "桌面设备"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "桌上型裝置"
           }
         }
       }
@@ -8245,6 +8731,12 @@
             "state" : "translated",
             "value" : "开发模式"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "開發模式"
+          }
         }
       }
     },
@@ -8344,6 +8836,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "没有收到验证码？"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "沒有收到驗證碼？"
           }
         }
       }
@@ -8447,6 +8945,12 @@
             "state" : "translated",
             "value" : "没有收到邮件？"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "沒有收到電子郵件？"
+          }
         }
       }
     },
@@ -8547,6 +9051,12 @@
             "state" : "translated",
             "value" : "域名"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "網域"
+          }
         }
       }
     },
@@ -8643,6 +9153,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "完成"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "完成"
@@ -8749,6 +9265,12 @@
             "state" : "translated",
             "value" : "下载"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下載"
+          }
         }
       }
     },
@@ -8848,6 +9370,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "编辑个人资料"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "編輯個人資料"
           }
         }
       }
@@ -8949,6 +9477,12 @@
             "state" : "translated",
             "value" : "电子邮箱地址"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "電子郵件地址"
+          }
         }
       }
     },
@@ -9049,6 +9583,12 @@
             "state" : "translated",
             "value" : "电子邮箱地址"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "電子郵件地址"
+          }
         }
       }
     },
@@ -9148,6 +9688,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "发送验证码至%@"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "將驗證碼寄到 %@"
           }
         }
       }
@@ -9251,6 +9797,12 @@
             "state" : "translated",
             "value" : "向%@发送邮件链接"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "將登入連結寄到 %@"
+          }
         }
       }
     },
@@ -9350,6 +9902,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "电子邮件支持"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "來信給客服"
           }
         }
       }
@@ -9457,6 +10015,12 @@
             "state" : "translated",
             "value" : "启用 %@，更快访问"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "啟用 %@ 以更快存取"
+          }
         }
       }
     },
@@ -9563,6 +10127,12 @@
             "state" : "translated",
             "value" : "启用 %@，更快访问 %@"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "啟用 %@ 以更快存取 %@"
+          }
         }
       }
     },
@@ -9662,6 +10232,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "输入备用码"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "輸入備用碼"
           }
         }
       }
@@ -9765,6 +10341,12 @@
             "state" : "translated",
             "value" : "请输入仅包含小写字母、数字和连字符的 slug。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請使用小寫英文字母、數字與連字號輸入代稱。"
+          }
         }
       }
     },
@@ -9864,6 +10446,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "输入电子邮件地址"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "輸入電子郵件地址"
           }
         }
       }
@@ -9965,6 +10553,12 @@
             "state" : "translated",
             "value" : "输入或粘贴一个或多个电子邮件地址，用空格或逗号分隔。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請輸入或貼上一個以上的電子郵件地址，並以空格或逗號分隔。"
+          }
         }
       }
     },
@@ -10064,6 +10658,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "使用您的密码登录"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "輸入密碼"
           }
         }
       }
@@ -10165,6 +10765,12 @@
             "state" : "translated",
             "value" : "输入您想要使用的电子邮箱地址。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請輸入您要使用的電子郵件地址。"
+          }
         }
       }
     },
@@ -10265,6 +10871,12 @@
             "state" : "translated",
             "value" : "输入您账户的密码"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請輸入您帳號的密碼"
+          }
         }
       }
     },
@@ -10364,6 +10976,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "输入您想要使用的电话号码。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請輸入您要使用的電話號碼。"
           }
         }
       }
@@ -10466,6 +11084,12 @@
             "state" : "translated",
             "value" : "输入验证器应用程序中的验证码"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請輸入驗證器應用程式中的驗證碼"
+          }
         }
       }
     },
@@ -10565,6 +11189,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "输入来自您的身份验证应用的验证码。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請輸入您驗證器應用程式中的驗證碼。"
           }
         }
       }
@@ -10667,6 +11297,12 @@
             "state" : "translated",
             "value" : "输入发送到以下号码的验证码"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請輸入傳送至以下號碼的驗證碼"
+          }
         }
       }
     },
@@ -10766,6 +11402,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "输入发送到%@的验证码"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請輸入傳送至 %@ 的驗證碼"
           }
         }
       }
@@ -10867,6 +11509,12 @@
             "state" : "translated",
             "value" : "输入您当前的密码以设置新密码。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請輸入您目前的密碼以設定新密碼。"
+          }
         }
       }
     },
@@ -10967,6 +11615,12 @@
             "state" : "translated",
             "value" : "请输入您的邮箱"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請輸入您的電子郵件"
+          }
         }
       }
     },
@@ -11066,6 +11720,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "请输入您的邮箱或用户名"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請輸入您的電子郵件或使用者名稱"
           }
         }
       }
@@ -11169,6 +11829,12 @@
             "state" : "translated",
             "value" : "输入您的组织详细信息以继续"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請輸入您的組織詳細資料以繼續"
+          }
         }
       }
     },
@@ -11268,6 +11934,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "使用密码登录"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請輸入您的密碼"
           }
         }
       }
@@ -11369,6 +12041,12 @@
             "state" : "translated",
             "value" : "请输入您的电话号码"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請輸入您的電話號碼"
+          }
         }
       }
     },
@@ -11468,6 +12146,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "请输入您的用户名"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請輸入您的使用者名稱"
           }
         }
       }
@@ -11569,6 +12253,12 @@
             "state" : "translated",
             "value" : "遇到问题？您可以使用以下任一方法登录。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "遇到問題嗎？您可以使用以下任一種方式登入。"
+          }
         }
       }
     },
@@ -11668,6 +12358,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "名"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名字"
           }
         }
       }
@@ -11769,6 +12465,12 @@
             "state" : "translated",
             "value" : "首先，输入发送到您邮箱的验证码"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請先輸入傳送至您電子郵件地址的驗證碼"
+          }
         }
       }
     },
@@ -11868,6 +12570,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "首先，输入发送到您手机的验证码"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請先輸入傳送至您手機的驗證碼"
           }
         }
       }
@@ -11969,6 +12677,12 @@
             "state" : "translated",
             "value" : "忘记密码？"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "忘記密碼？"
+          }
         }
       }
     },
@@ -12068,6 +12782,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "获取帮助"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取得協助"
           }
         }
       }
@@ -12169,6 +12889,12 @@
             "state" : "translated",
             "value" : "邀请他人加入你的组织以开始使用"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "邀請他人加入您的組織即可開始使用"
+          }
         }
       }
     },
@@ -12265,6 +12991,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "返回"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "返回"
@@ -12369,6 +13101,12 @@
             "state" : "translated",
             "value" : "隐藏密码"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隱藏密碼"
+          }
         }
       }
     },
@@ -12468,6 +13206,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "我同意[隐私政策](LegalConsentView://privacy)"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我同意[隱私權政策](LegalConsentView://privacy)"
           }
         }
       }
@@ -12569,6 +13313,12 @@
             "state" : "translated",
             "value" : "我同意[服务条款](LegalConsentView://terms)"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我同意[服務條款](LegalConsentView://terms)"
+          }
         }
       }
     },
@@ -12668,6 +13418,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "我同意[服务条款](LegalConsentView://terms)和[隐私政策](LegalConsentView://privacy)"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我同意[服務條款](LegalConsentView://terms)與[隱私權政策](LegalConsentView://privacy)"
           }
         }
       }
@@ -12771,6 +13527,12 @@
             "state" : "translated",
             "value" : "如果您在完成所需的帐户设置时遇到困难，请给我们发送电子邮件，我们将帮助您尽快完成。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如果您在完成必要的帳號設定時遇到問題，請來信給我們，我們會盡快協助您完成。"
+          }
         }
       }
     },
@@ -12870,6 +13632,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "如果您在创建账户时遇到问题，请发送电子邮件给我们，我们将与您合作尽快完成您的注册。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如果您在建立帳號時遇到問題，請來信給我們，我們會盡快協助您完成註冊。"
           }
         }
       }
@@ -12971,6 +13739,12 @@
             "state" : "translated",
             "value" : "如果您在登录账户时遇到问题，请发送电子邮件给我们，我们将与您合作尽快恢复访问权限。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如果您在登入帳號時遇到問題，請來信給我們，我們會盡快協助您恢復存取權。"
+          }
         }
       }
     },
@@ -13070,6 +13844,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "国际"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "國際"
           }
         }
       }
@@ -13171,6 +13951,12 @@
             "state" : "translated",
             "value" : "邀请"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "邀請"
+          }
         }
       }
     },
@@ -13271,6 +14057,12 @@
             "state" : "translated",
             "value" : "邀请"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "邀請"
+          }
         }
       }
     },
@@ -13370,6 +14162,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "邀请新成员"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "邀請新成員"
           }
         }
       }
@@ -13472,6 +14270,12 @@
             "state" : "translated",
             "value" : "邀请日期：%@"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "邀請日期：%@"
+          }
         }
       }
     },
@@ -13572,6 +14376,12 @@
             "state" : "translated",
             "value" : "建议从所有可能使用过您旧密码的其他设备注销。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "建議您登出所有可能使用過舊密碼的其他裝置。"
+          }
         }
       }
     },
@@ -13668,6 +14478,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "加入"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "加入"
@@ -13772,6 +14588,12 @@
             "state" : "translated",
             "value" : "加入现有组织"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "加入現有的組織"
+          }
         }
       }
     },
@@ -13874,6 +14696,12 @@
             "state" : "translated",
             "value" : "加入现有组织或创建新组织"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "加入現有的組織或建立新的組織"
+          }
         }
       }
     },
@@ -13971,6 +14799,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "加入日期：%@"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "加入日期：%@"
@@ -14075,6 +14909,12 @@
             "state" : "translated",
             "value" : "姓"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "姓氏"
+          }
         }
       }
     },
@@ -14175,6 +15015,12 @@
             "state" : "translated",
             "value" : "最后使用"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "上次使用"
+          }
         }
       }
     },
@@ -14274,6 +15120,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "最后使用：%@"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "上次使用：%@"
           }
         }
       }
@@ -14377,6 +15229,12 @@
             "state" : "translated",
             "value" : "离开组织"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "離開組織"
+          }
         }
       }
     },
@@ -14477,6 +15335,12 @@
             "state" : "translated",
             "value" : "将其他登录选项链接到您的账户。使用前需要验证。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "為您的帳號連結另一種登入方式。您需要先完成驗證才能使用。"
+          }
         }
       }
     },
@@ -14576,6 +15440,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "已关联"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已連結"
           }
         }
       }
@@ -14679,6 +15549,12 @@
             "state" : "translated",
             "value" : "确保启用基于时间或一次性的密码，然后完成帐户关联。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請確認已啟用「時間型」或「一次性密碼」，然後完成帳號連結。"
+          }
         }
       }
     },
@@ -14777,6 +15653,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "管理"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "管理"
@@ -14881,6 +15763,12 @@
             "state" : "translated",
             "value" : "管理账户"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "管理帳號"
+          }
         }
       }
     },
@@ -14983,6 +15871,12 @@
             "state" : "translated",
             "value" : "手动设置键"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "手動設定金鑰"
+          }
         }
       }
     },
@@ -15082,6 +15976,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "成员"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "成員"
           }
         }
       }
@@ -15185,6 +16085,12 @@
             "state" : "translated",
             "value" : "成员"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "成員"
+          }
         }
       }
     },
@@ -15284,6 +16190,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "为MFA保留"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已保留供多重驗證使用"
           }
         }
       }
@@ -15385,6 +16297,12 @@
             "state" : "translated",
             "value" : "移动设备"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "行動裝置"
+          }
         }
       }
     },
@@ -15484,6 +16402,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "通行密钥名称"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "密碼金鑰名稱"
           }
         }
       }
@@ -15585,6 +16509,12 @@
             "state" : "translated",
             "value" : "新密码"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新密碼"
+          }
         }
       }
     },
@@ -15681,6 +16611,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下一步"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "下一步"
@@ -15785,6 +16721,12 @@
             "state" : "translated",
             "value" : "无自动注册"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不自動加入"
+          }
         }
       }
     },
@@ -15884,6 +16826,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "此设备上没有可用的邮件应用。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "這個裝置上沒有可用的電子郵件應用程式。"
           }
         }
       }
@@ -15985,6 +16933,12 @@
             "state" : "translated",
             "value" : "未发送邀请"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "尚未發出邀請"
+          }
         }
       }
     },
@@ -16084,6 +17038,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "未找到成员"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "找不到成員"
           }
         }
       }
@@ -16187,6 +17147,12 @@
             "state" : "translated",
             "value" : "没有成员与您的搜索匹配。请尝试其他姓名或电子邮件地址。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "沒有符合您搜尋條件的成員。請改用其他名稱或電子郵件地址試試看。"
+          }
         }
       }
     },
@@ -16286,6 +17252,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "没有成员申请"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "沒有加入要求"
           }
         }
       }
@@ -16387,6 +17359,12 @@
             "state" : "translated",
             "value" : "没有可用角色"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "沒有可用的角色"
+          }
         }
       }
     },
@@ -16486,6 +17464,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "没有已验证的域名"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "沒有已驗證的網域"
           }
         }
       }
@@ -16593,6 +17577,12 @@
             "state" : "translated",
             "value" : "暂不"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "暫時不要"
+          }
         }
       }
     },
@@ -16692,6 +17682,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "打开账户"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "開啟帳號"
           }
         }
       }
@@ -16793,6 +17789,12 @@
             "state" : "translated",
             "value" : "打开邮件应用"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "開啟電子郵件應用程式"
+          }
         }
       }
     },
@@ -16889,6 +17891,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "或"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "或"
@@ -16993,6 +18001,12 @@
             "state" : "translated",
             "value" : "或使用其他方式登录"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "或改用其他方式登入"
+          }
         }
       }
     },
@@ -17094,6 +18108,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "组织"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "組織"
           }
         }
       }
@@ -17197,6 +18217,12 @@
             "state" : "translated",
             "value" : "组织名称"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "組織名稱"
+          }
         }
       }
     },
@@ -17296,6 +18322,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "通行密钥"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "密碼金鑰"
           }
         }
       }
@@ -17397,6 +18429,12 @@
             "state" : "translated",
             "value" : "密码"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "密碼"
+          }
         }
       }
     },
@@ -17497,6 +18535,12 @@
             "state" : "translated",
             "value" : "密码"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "密碼"
+          }
         }
       }
     },
@@ -17596,6 +18640,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "密码不匹配。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "兩次輸入的密碼不一致。"
           }
         }
       }
@@ -17699,6 +18749,12 @@
             "state" : "translated",
             "value" : "等待批准"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "等待核准"
+          }
         }
       }
     },
@@ -17801,6 +18857,12 @@
             "state" : "translated",
             "value" : "个人账户"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "個人帳號"
+          }
         }
       }
     },
@@ -17900,6 +18962,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "电话号码"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "電話號碼"
           }
         }
       }
@@ -18001,6 +19069,12 @@
             "state" : "translated",
             "value" : "电话号码"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "電話號碼"
+          }
         }
       }
     },
@@ -18101,6 +19175,12 @@
             "state" : "translated",
             "value" : "照片库"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "照片圖庫"
+          }
         }
       }
     },
@@ -18197,6 +19277,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "主要"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "主要"
@@ -18301,6 +19387,12 @@
             "state" : "translated",
             "value" : "个人资料详情"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "個人資料詳細內容"
+          }
         }
       }
     },
@@ -18400,6 +19492,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "重新连接"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重新連結"
           }
         }
       }
@@ -18501,6 +19599,12 @@
             "state" : "translated",
             "value" : "重新生成"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重新產生"
+          }
         }
       }
     },
@@ -18601,6 +19705,12 @@
             "state" : "translated",
             "value" : "拒绝请求"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "拒絕要求"
+          }
         }
       }
     },
@@ -18697,6 +19807,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移除"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "移除"
@@ -18801,6 +19917,12 @@
             "state" : "translated",
             "value" : "删除已连接账户"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移除已連結的帳號"
+          }
         }
       }
     },
@@ -18900,6 +20022,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "删除连接"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移除連結"
           }
         }
       }
@@ -19001,6 +20129,12 @@
             "state" : "translated",
             "value" : "移除当前徽标"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移除目前的標誌"
+          }
         }
       }
     },
@@ -19100,6 +20234,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "删除域名"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移除網域"
           }
         }
       }
@@ -19201,6 +20341,12 @@
             "state" : "translated",
             "value" : "删除邮箱"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移除電子郵件"
+          }
         }
       }
     },
@@ -19300,6 +20446,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "删除邮箱地址"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移除電子郵件地址"
           }
         }
       }
@@ -19401,6 +20553,12 @@
             "state" : "translated",
             "value" : "移除成员"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移除成員"
+          }
         }
       }
     },
@@ -19500,6 +20658,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "删除密码钥匙"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移除密碼金鑰"
           }
         }
       }
@@ -19601,6 +20765,12 @@
             "state" : "translated",
             "value" : "删除电话"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移除電話"
+          }
         }
       }
     },
@@ -19700,6 +20870,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "删除电话号码"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移除電話號碼"
           }
         }
       }
@@ -19801,6 +20977,12 @@
             "state" : "translated",
             "value" : "移除照片"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移除相片"
+          }
         }
       }
     },
@@ -19900,6 +21082,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "移除两步验证"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移除兩步驟驗證"
           }
         }
       }
@@ -20001,6 +21189,12 @@
             "state" : "translated",
             "value" : "重命名"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重新命名"
+          }
         }
       }
     },
@@ -20100,6 +21294,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "重命名通行密钥"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重新命名密碼金鑰"
           }
         }
       }
@@ -20203,6 +21403,12 @@
             "state" : "translated",
             "value" : "请求加入"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "要求加入"
+          }
         }
       }
     },
@@ -20304,6 +21510,12 @@
             "state" : "translated",
             "value" : "加入申请日期：%@"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "要求日期：%@"
+          }
         }
       }
     },
@@ -20403,6 +21615,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "请求"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "要求"
           }
         }
       }
@@ -20504,6 +21722,12 @@
             "state" : "translated",
             "value" : "重新发送"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重新傳送"
+          }
         }
       }
     },
@@ -20603,6 +21827,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "重新发送 (%lld)"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重新傳送 (%lld)"
           }
         }
       }
@@ -20704,6 +21934,12 @@
             "state" : "translated",
             "value" : "重置密码"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重設密碼"
+          }
         }
       }
     },
@@ -20803,6 +22039,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "重置您的密码"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重設您的密碼"
           }
         }
       }
@@ -20904,6 +22146,12 @@
             "state" : "translated",
             "value" : "撤销邀请"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "撤銷邀請"
+          }
         }
       }
     },
@@ -21000,6 +22248,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "角色"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "角色"
@@ -21104,6 +22358,12 @@
             "state" : "translated",
             "value" : "保存"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "儲存"
+          }
         }
       }
     },
@@ -21206,6 +22466,12 @@
             "state" : "translated",
             "value" : "将这些代码保存在安全的地方。如果您无法访问身份验证设备，您可以使用备份代码登录。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請將這些備用碼儲存在安全的地方。如果您無法存取驗證裝置，可以使用備用碼登入。"
+          }
         }
       }
     },
@@ -21305,6 +22571,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "搜索"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "搜尋"
           }
         }
       }
@@ -21406,6 +22678,12 @@
             "state" : "translated",
             "value" : "安全提供"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "安全防護由"
+          }
         }
       }
     },
@@ -21506,6 +22784,12 @@
             "state" : "translated",
             "value" : "安全"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "安全性"
+          }
         }
       }
     },
@@ -21605,6 +22889,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "选择现有电话号码注册短信验证码两步验证，或添加新号码。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "選擇現有的電話號碼註冊簡訊驗證碼兩步驟驗證，或新增一組電話號碼。"
           }
         }
       }
@@ -21708,6 +22998,12 @@
             "state" : "translated",
             "value" : "选择组织"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "選擇組織"
+          }
         }
       }
     },
@@ -21809,6 +23105,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "选择您希望用于继续操作的账户。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請選擇您要用來繼續的帳號。"
           }
         }
       }
@@ -21912,6 +23214,12 @@
             "state" : "translated",
             "value" : "已选择"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已選取"
+          }
         }
       }
     },
@@ -22011,6 +23319,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "发送邀请"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "傳送邀請"
           }
         }
       }
@@ -22112,6 +23426,12 @@
             "state" : "translated",
             "value" : "发送验证码至%@"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "將簡訊驗證碼傳送至 %@"
+          }
         }
       }
     },
@@ -22211,6 +23531,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "设为默认"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "設為預設"
           }
         }
       }
@@ -22312,6 +23638,12 @@
             "state" : "translated",
             "value" : "设为主要"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "設為主要"
+          }
         }
       }
     },
@@ -22412,6 +23744,12 @@
             "state" : "translated",
             "value" : "设置新密码"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "設定新密碼"
+          }
         }
       }
     },
@@ -22511,6 +23849,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "在您的身份验证器中设置新的登录方法，并输入下面提供的密钥。\n\n确保启用基于时间或一次性密码，然后完成账户链接。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請在您的驗證器中設定新的登入方式，並輸入下方提供的金鑰。\n\n請確認已啟用「時間型」或「一次性密碼」，然後完成帳號連結。"
           }
         }
       }
@@ -22614,6 +23958,12 @@
             "state" : "translated",
             "value" : "在您的身份验证器应用中设置新的登录方式，并使用下方的手动设置密钥将其关联到您的帐户。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請使用下方的手動設定金鑰，在您的驗證器應用程式中設定新的登入方式，以連結您的帳號。"
+          }
         }
       }
     },
@@ -22716,6 +24066,12 @@
             "state" : "translated",
             "value" : "设置两步验证"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "設定兩步驟驗證"
+          }
         }
       }
     },
@@ -22815,6 +24171,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "显示密码"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "顯示密碼"
           }
         }
       }
@@ -22922,6 +24284,12 @@
             "state" : "translated",
             "value" : "使用%@登录"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用 %@ 登入"
+          }
         }
       }
     },
@@ -23021,6 +24389,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "使用您的通行密钥登录"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用您的密碼金鑰登入"
           }
         }
       }
@@ -23122,6 +24496,12 @@
             "state" : "translated",
             "value" : "使用密码登录"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用您的密碼登入"
+          }
         }
       }
     },
@@ -23221,6 +24601,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "退出登录"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "登出"
           }
         }
       }
@@ -23322,6 +24708,12 @@
             "state" : "translated",
             "value" : "退出所有账户"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "登出所有帳號"
+          }
         }
       }
     },
@@ -23421,6 +24813,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "退出所有其他设备"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "登出所有其他裝置"
           }
         }
       }
@@ -23522,6 +24920,12 @@
             "state" : "translated",
             "value" : "从设备注销"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "登出裝置"
+          }
         }
       }
     },
@@ -23622,6 +25026,12 @@
             "state" : "translated",
             "value" : "注册"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "註冊"
+          }
         }
       }
     },
@@ -23721,6 +25131,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "跳过"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "略過"
           }
         }
       }
@@ -23824,6 +25240,12 @@
             "state" : "translated",
             "value" : "URL 简称"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "代稱"
+          }
         }
       }
     },
@@ -23923,6 +25345,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "短信验证码"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "簡訊驗證碼"
           }
         }
       }
@@ -24024,6 +25452,12 @@
             "state" : "translated",
             "value" : "短信验证码已启用"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已啟用簡訊驗證碼驗證"
+          }
         }
       }
     },
@@ -24120,6 +25554,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "成功"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "成功"
@@ -24223,6 +25663,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "切换账户"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "切換帳號"
           }
         }
       }
@@ -24330,6 +25776,12 @@
             "state" : "translated",
             "value" : "应用 %@ 使用 %@ 为你登录。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "應用程式 %@ 會使用 %@ 為您登入。"
+          }
         }
       }
     },
@@ -24429,6 +25881,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "域名 %@ 需要通过电子邮件进行验证。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "網域 %@ 需要透過電子郵件完成驗證。"
           }
         }
       }
@@ -24530,6 +25988,12 @@
             "state" : "translated",
             "value" : "电子邮件域名 %@ 将被删除。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "電子郵件網域 %@ 將被移除。"
+          }
         }
       }
     },
@@ -24629,6 +26093,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "从照片库加载图像时出错。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "從照片圖庫載入圖片時發生錯誤。"
           }
         }
       }
@@ -24730,6 +26200,12 @@
             "state" : "translated",
             "value" : "加载所选图像文件时出错。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "載入所選圖片檔案時發生錯誤。"
+          }
         }
       }
     },
@@ -24829,6 +26305,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "此账户已断开连接。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "這個帳號的連結已解除。"
           }
         }
       }
@@ -24932,6 +26414,12 @@
             "state" : "translated",
             "value" : "此操作是永久性的且无法撤销。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "這項操作是永久的，且無法復原。"
+          }
         }
       }
     },
@@ -25031,6 +26519,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "这个设备"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "這個裝置"
           }
         }
       }
@@ -25132,6 +26626,12 @@
             "state" : "translated",
             "value" : "继续"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "以繼續"
+          }
         }
       }
     },
@@ -25231,6 +26731,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "继续前往%@"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "以繼續前往 %@"
           }
         }
       }
@@ -25332,6 +26838,12 @@
             "state" : "translated",
             "value" : "要继续，请输入您的身份验证器应用生成的验证码"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請輸入您驗證器應用程式產生的驗證碼以繼續"
+          }
         }
       }
     },
@@ -25431,6 +26943,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "两步验证"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "兩步驟驗證"
           }
         }
       }
@@ -25532,6 +27050,12 @@
             "state" : "translated",
             "value" : "两步验证"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "兩步驟驗證"
+          }
         }
       }
     },
@@ -25632,6 +27156,12 @@
             "state" : "translated",
             "value" : "两步验证现已启用。登录时，您需要输入来自此身份验证应用的验证码作为额外步骤。\n\n保存这些备份代码并将其存储在安全的地方。如果您无法访问身份验证设备，可以使用备份代码登录。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "兩步驟驗證已啟用。登入時，您需要額外輸入這個驗證器應用程式中的驗證碼。\n\n請儲存這些備用碼並放在安全的地方。如果您無法存取驗證裝置，可以使用備用碼登入。"
+          }
         }
       }
     },
@@ -25731,6 +27261,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "两步验证设置"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "兩步驟驗證設定"
           }
         }
       }
@@ -25834,6 +27370,12 @@
             "state" : "translated",
             "value" : "在下方输入 \"%@\" 以继续。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請在下方輸入「%@」以繼續。"
+          }
         }
       }
     },
@@ -25933,6 +27475,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "输入\"删除\"以继续"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請輸入「刪除」以繼續"
           }
         }
       }
@@ -26034,6 +27582,12 @@
             "state" : "translated",
             "value" : "没有活动组织，无法发送邀请。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "沒有使用中的組織，因此無法傳送邀請。"
+          }
         }
       }
     },
@@ -26133,6 +27687,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "没有活动组织，无法更新组织。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "沒有使用中的組織，因此無法更新組織。"
           }
         }
       }
@@ -26234,6 +27794,12 @@
             "state" : "translated",
             "value" : "未知的验证码验证方式。请使用其他方式。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "未知的驗證碼驗證方式。請改用其他方式。"
+          }
         }
       }
     },
@@ -26333,6 +27899,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "未知设备"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不明的裝置"
           }
         }
       }
@@ -26434,6 +28006,12 @@
             "state" : "translated",
             "value" : "未验证"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "未驗證"
+          }
         }
       }
     },
@@ -26530,6 +28108,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "更新 %@"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "更新 %@"
@@ -26634,6 +28218,12 @@
             "state" : "translated",
             "value" : "更新密码"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "更新密碼"
+          }
         }
       }
     },
@@ -26736,6 +28326,12 @@
             "state" : "translated",
             "value" : "更新个人资料"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "更新個人資料"
+          }
         }
       }
     },
@@ -26837,6 +28433,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "上传徽标"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "上傳標誌"
           }
         }
       }
@@ -26944,6 +28546,12 @@
             "state" : "translated",
             "value" : "使用 %@ 登录。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用 %@ 登入。"
+          }
         }
       }
     },
@@ -27043,6 +28651,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "使用备用码"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用備用碼"
           }
         }
       }
@@ -27144,6 +28758,12 @@
             "state" : "translated",
             "value" : "使用其他方法"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用其他方式"
+          }
         }
       }
     },
@@ -27243,6 +28863,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "使用电子邮箱"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用電子郵件地址"
           }
         }
       }
@@ -27344,6 +28970,12 @@
             "state" : "translated",
             "value" : "使用电子邮箱或用户名"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用電子郵件地址或使用者名稱"
+          }
         }
       }
     },
@@ -27443,6 +29075,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "使用电话号码"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用電話號碼"
           }
         }
       }
@@ -27544,6 +29182,12 @@
             "state" : "translated",
             "value" : "使用用户名"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用使用者名稱"
+          }
         }
       }
     },
@@ -27643,6 +29287,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "使用您的身份验证器应用"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用您的驗證器應用程式"
           }
         }
       }
@@ -27744,6 +29394,12 @@
             "state" : "translated",
             "value" : "使用您的通行密钥"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用您的密碼金鑰"
+          }
         }
       }
     },
@@ -27843,6 +29499,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "用户名"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用者名稱"
           }
         }
       }
@@ -27944,6 +29606,12 @@
             "state" : "translated",
             "value" : "用户在注册时会自动收到加入组织的邀请，并且可以随时加入。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用者註冊時會自動收到加入組織的邀請，並可隨時加入。"
+          }
         }
       }
     },
@@ -28043,6 +29711,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "用户只能被手动邀请加入组织。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "只能以手動方式邀請使用者加入組織。"
           }
         }
       }
@@ -28144,6 +29818,12 @@
             "state" : "translated",
             "value" : "用户会收到请求加入的建议，但在加入组织之前必须得到管理员的批准。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用者會收到要求加入的建議，但必須經管理員核准後才能加入組織。"
+          }
         }
       }
     },
@@ -28243,6 +29923,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "请求加入你组织的用户会显示在这里以供审核"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "要求加入您組織的使用者會顯示在這裡供您審核"
           }
         }
       }
@@ -28344,6 +30030,12 @@
             "state" : "translated",
             "value" : "此后，用户将无法自动加入组织。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在此之後，使用者將無法自動加入組織。"
+          }
         }
       }
     },
@@ -28443,6 +30135,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "使用您的通行密钥可确认您的身份。您的设备可能会要求您提供指纹、面容或屏幕锁定。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用密碼金鑰可確認是您本人。您的裝置可能會要求指紋、臉部或螢幕鎖定驗證。"
           }
         }
       }
@@ -28544,6 +30242,12 @@
             "state" : "translated",
             "value" : "登录时将不再需要此身份验证器的验证码。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "登入時將不再需要輸入這個驗證器產生的驗證碼。"
+          }
         }
       }
     },
@@ -28643,6 +30347,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "验证邮箱地址"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "驗證用電子郵件地址"
           }
         }
       }
@@ -28746,6 +30456,12 @@
             "state" : "translated",
             "value" : "已验证域"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已驗證的網域"
+          }
         }
       }
     },
@@ -28845,6 +30561,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "验证"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "驗證"
           }
         }
       }
@@ -28946,6 +30668,12 @@
             "state" : "translated",
             "value" : "验证身份验证应用"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "驗證驗證器應用程式"
+          }
         }
       }
     },
@@ -29045,6 +30773,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "验证域名"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "驗證網域"
           }
         }
       }
@@ -29146,6 +30880,12 @@
             "state" : "translated",
             "value" : "验证电子邮箱地址"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "驗證電子郵件地址"
+          }
         }
       }
     },
@@ -29245,6 +30985,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "验证电话号码"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "驗證電話號碼"
           }
         }
       }
@@ -29348,6 +31094,12 @@
             "state" : "translated",
             "value" : "验证您的电话号码"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "驗證您的電話號碼"
+          }
         }
       }
     },
@@ -29447,6 +31199,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "正在验证..."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "驗證中..."
           }
         }
       }
@@ -29548,6 +31306,12 @@
             "state" : "translated",
             "value" : "我们正在更新可用角色。完成后，你将能够再次邀请成员。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我們正在更新可用的角色。更新完成後，您就能再次邀請成員。"
+          }
         }
       }
     },
@@ -29647,6 +31411,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "我们正在更新可用角色。完成后，您将能够再次更新角色。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我們正在更新可用的角色。更新完成後，您就能再次更新角色。"
           }
         }
       }
@@ -29748,6 +31518,12 @@
             "state" : "translated",
             "value" : "欢迎！请填写详细信息以开始使用。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "歡迎！請填寫詳細資料以開始使用。"
+          }
         }
       }
     },
@@ -29847,6 +31623,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "欢迎！登录以继续"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "歡迎回來！請登入以繼續"
           }
         }
       }
@@ -29948,6 +31730,12 @@
             "state" : "translated",
             "value" : "登录时，您需要输入发送到此电话号码的验证码作为额外步骤。\n\n保存这些备份代码并将其存储在安全的地方。如果您无法访问身份验证设备，可以使用备份代码登录。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "登入時，您需要額外輸入傳送至這個電話號碼的驗證碼。\n\n請儲存這些備用碼並放在安全的地方。如果您無法存取驗證裝置，可以使用備用碼登入。"
+          }
         }
       }
     },
@@ -30047,6 +31835,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "登录时，系统会要求您提供发送到该电话号码的验证码。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "登入時，系統會要求您輸入傳送至這個電話號碼的驗證碼。"
           }
         }
       }
@@ -30148,6 +31942,12 @@
             "state" : "translated",
             "value" : "登录时，您需要输入此身份验证器应用程序中的验证码。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "登入時，您需要輸入這個驗證器應用程式中的驗證碼。"
+          }
         }
       }
     },
@@ -30248,6 +32048,12 @@
             "state" : "translated",
             "value" : "哎呀，出错了"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "糟糕，發生了問題"
+          }
         }
       }
     },
@@ -30344,6 +32150,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "您"
@@ -30450,6 +32262,12 @@
             "state" : "translated",
             "value" : "您不再是该组织的成员。请选择其他组织。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您已不再是這個組織的成員。請選擇其他組織。"
+          }
         }
       }
     },
@@ -30552,6 +32370,12 @@
             "state" : "translated",
             "value" : "您不再是该组织的成员。请选择其他组织或创建新组织。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您已不再是這個組織的成員。請選擇或建立其他組織。"
+          }
         }
       }
     },
@@ -30651,6 +32475,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "您可以更改通行密钥名称，以便更容易找到。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您可以變更密碼金鑰的名稱，以便日後尋找。"
           }
         }
       }
@@ -30754,6 +32584,12 @@
             "state" : "translated",
             "value" : "您必须属于一个组织"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您必須隸屬於某個組織"
+          }
         }
       }
     },
@@ -30853,6 +32689,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "在将此电子邮箱地址添加到您的账户之前，您需要先进行验证。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您需要先驗證這個電子郵件地址，才能將它加入您的帳號。"
           }
         }
       }
@@ -30954,6 +32796,12 @@
             "state" : "translated",
             "value" : "您正在从新设备登录。我们要求进行验证以保护您的账户安全。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您正從新的裝置登入。為了保護您的帳號安全，我們需要進行驗證。"
+          }
         }
       }
     },
@@ -31054,6 +32902,12 @@
             "state" : "translated",
             "value" : "您的账户需要设置新密码才能继续。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您的帳號需要設定新密碼才能繼續"
+          }
         }
       }
     },
@@ -31153,6 +33007,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "您的备用码是在设置两步验证时获得的。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "備用碼是您在設定兩步驟驗證時取得的代碼。"
           }
         }
       }
