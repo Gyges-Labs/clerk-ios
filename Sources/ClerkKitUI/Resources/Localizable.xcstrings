@@ -6184,6 +6184,1264 @@
         }
       }
     },
+    "clerk_error_action_blocked" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "この操作を完了できませんでした。しばらくしてからもう一度お試しください。問題が続く場合はサポートにお問い合わせください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無法完成這項操作。請稍後再試一次，若問題持續發生請聯絡支援。"
+          }
+        }
+      }
+    },
+    "clerk_error_api_key_name_already_exists" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "その API キー名はすでに使用されています。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "這個 API 金鑰名稱已存在。"
+          }
+        }
+      }
+    },
+    "clerk_error_api_key_usage_exceeded" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "利用上限に達しました。有料プランにアップグレードすると上限を解除できます。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您已達到用量上限。升級為付費方案即可解除上限。"
+          }
+        }
+      }
+    },
+    "clerk_error_avatar_file_size_exceeded" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイルサイズが10MBの上限を超えています。より小さいファイルを選択してください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "檔案大小超過10MB的上限。請選擇較小的檔案。"
+          }
+        }
+      }
+    },
+    "clerk_error_avatar_file_type_invalid" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "サポートされていないファイル形式です。JPG、PNG、GIF、またはWEBP画像をアップロードしてください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不支援的檔案類型。請上傳 JPG、PNG、GIF 或 WEBP 格式的圖片。"
+          }
+        }
+      }
+    },
+    "clerk_error_captcha_invalid" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "セキュリティ検証に失敗しました。もう一度お試しください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "安全驗證失敗。請再試一次。"
+          }
+        }
+      }
+    },
+    "clerk_error_captcha_unavailable" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ボット検証に失敗したため、サインアップに失敗しました。ページを更新して再試行するか、サポートに連絡してさらに支援を受けてください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "由於機器人驗證失敗導致註冊未成功。請重新整理頁面再試一次，或聯絡支援以取得協助。"
+          }
+        }
+      }
+    },
+    "clerk_error_form_code_incorrect" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "入力されたコードが正しくありません。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "驗證碼不正確。"
+          }
+        }
+      }
+    },
+    "clerk_error_form_email_address_blocked" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一時的なメールサービスはサポートされていません。アカウントを作成するには、通常のメールアドレスを使用してください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不支援臨時電子郵件服務。請使用一般的電子郵件地址建立帳號。"
+          }
+        }
+      }
+    },
+    "clerk_error_form_identifier_exists__email_address" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このメールアドレスは既に使用されています。別のものをお試しください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此電子郵件地址已被使用，請嘗試其他地址。"
+          }
+        }
+      }
+    },
+    "clerk_error_form_identifier_exists__phone_number" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "この電話番号は既に使用されています。別のものをお試しください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此電話號碼已被使用，請嘗試其他號碼。"
+          }
+        }
+      }
+    },
+    "clerk_error_form_identifier_exists__username" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このユーザー名は既に使用されています。別のものをお試しください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此使用者名稱已被使用，請嘗試其他名稱。"
+          }
+        }
+      }
+    },
+    "clerk_error_form_identifier_not_found" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "その情報に一致するアカウントが見つかりませんでした。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我們無法找到具有這些資訊的帳號。"
+          }
+        }
+      }
+    },
+    "clerk_error_form_new_password_matches_current" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新しいパスワードを現在のパスワードと同じにすることはできません。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新密碼不能與目前的密碼相同。"
+          }
+        }
+      }
+    },
+    "clerk_error_form_param_format_invalid" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "入力された値の形式が正しくありません。確認して修正してください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "輸入的格式不正確，請確認後修正。"
+          }
+        }
+      }
+    },
+    "clerk_error_form_param_format_invalid__email_address" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "メールアドレスの形式が正しくありません。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "電子郵件地址必須是有效的格式。"
+          }
+        }
+      }
+    },
+    "clerk_error_form_param_format_invalid__phone_number" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "電話番号は有効な国際形式で入力してください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "電話號碼必須是有效的國際格式。"
+          }
+        }
+      }
+    },
+    "clerk_error_form_param_max_length_exceeded__first_name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名は256文字以内で入力してください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名字不應超過 256 個字元。"
+          }
+        }
+      }
+    },
+    "clerk_error_form_param_max_length_exceeded__last_name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "姓は256文字以内で入力してください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "姓氏不應超過 256 個字元。"
+          }
+        }
+      }
+    },
+    "clerk_error_form_param_max_length_exceeded__name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名前は256文字以内で入力してください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名稱不應超過 256 個字元。"
+          }
+        }
+      }
+    },
+    "clerk_error_form_param_nil" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "この項目は必須です。空欄にはできません。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此欄位為必填，不能空白。"
+          }
+        }
+      }
+    },
+    "clerk_error_form_param_type_invalid" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "入力された値の型が正しくありません。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "輸入的值類型不正確。"
+          }
+        }
+      }
+    },
+    "clerk_error_form_param_type_invalid__email_address" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "メールアドレスは有効な文字列である必要があります。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "電子郵件地址必須是有效的字串。"
+          }
+        }
+      }
+    },
+    "clerk_error_form_param_type_invalid__phone_number" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "電話番号は有効な文字列である必要があります。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "電話號碼必須是有效的字串。"
+          }
+        }
+      }
+    },
+    "clerk_error_form_param_value_invalid" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "入力された値が無効です。修正してください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "輸入的值無效，請修正。"
+          }
+        }
+      }
+    },
+    "clerk_error_form_password_compromised__sign_in" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このパスワードは侵害された可能性があります。アカウントを保護するため、別のサインイン方法を使用してください。サインイン後にパスワードのリセットが必要になります。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此密碼可能已外洩。為保護您的帳號，請改用其他登入方式。登入後您將需要重設密碼。"
+          }
+        }
+      }
+    },
+    "clerk_error_form_password_incorrect" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "入力されたパスワードが正しくありません。もう一度お試しください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "密碼不正確。請再試一次，或使用其他方式。"
+          }
+        }
+      }
+    },
+    "clerk_error_form_password_length_too_short" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "パスワードが短すぎます。8文字以上である必要があります。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您的密碼太短。長度必須至少為 8 個字元。"
+          }
+        }
+      }
+    },
+    "clerk_error_form_password_matches_identifier" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "パスワードにメールアドレス、電話番号、ユーザー名と同じものは使用できません。アカウントを保護するため、別のパスワードを使用してください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "密碼不能與您的電子郵件地址、電話號碼或使用者名稱相同。為了帳號安全，請使用不同的密碼。"
+          }
+        }
+      }
+    },
+    "clerk_error_form_password_not_strong_enough" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "パスワードの強度が不十分です。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您的密碼強度不足。"
+          }
+        }
+      }
+    },
+    "clerk_error_form_password_or_identifier_incorrect" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "パスワードまたはメールアドレスが正しくありません。もう一度お試しいただくか、別の方法をご利用ください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "密碼或電子郵件地址不正確。請重試或使用其他方法。"
+          }
+        }
+      }
+    },
+    "clerk_error_form_password_pwned" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このパスワードは侵害の一部として見つかったため使用できません。別のパスワードを試してください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此密碼已在已知的資料外洩事件中出現，請改用其他密碼。"
+          }
+        }
+      }
+    },
+    "clerk_error_form_password_pwned__sign_in" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このパスワードは侵害の一部として見つかったため使用できません。パスワードをリセットしてください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此密碼曾出現在資料外洩事件中，無法使用，請重設密碼。"
+          }
+        }
+      }
+    },
+    "clerk_error_form_password_size_in_bytes_exceeded" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "パスワードのバイト数が上限を超えています。短くするか、一部の特殊文字を削除してください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您的密碼超過允許的大小上限，請縮短或移除部分特殊字元。"
+          }
+        }
+      }
+    },
+    "clerk_error_form_password_untrusted__sign_in" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このパスワードは安全でない可能性があります。アカウントを保護するため、別のサインイン方法を使用してください。サインイン後にパスワードのリセットが必要になります。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您的密碼可能已外洩。為保護您的帳號，請改用其他登入方式。登入後您將需要重設密碼。"
+          }
+        }
+      }
+    },
+    "clerk_error_form_password_validation_failed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "パスワードが間違っています"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "密碼驗證失敗"
+          }
+        }
+      }
+    },
+    "clerk_error_form_username_invalid_character" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ユーザー名に無効な文字が含まれています。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用者名稱包含無效的字元。"
+          }
+        }
+      }
+    },
+    "clerk_error_form_username_needs_non_number_char" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ユーザー名には少なくとも1つの数字以外の文字が含まれている必要があります。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您的使用者名稱必須包含至少一個非數字字元。"
+          }
+        }
+      }
+    },
+    "clerk_error_identification_deletion_failed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最後の識別情報は削除できません。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您無法刪除最後一個驗證方式。"
+          }
+        }
+      }
+    },
+    "clerk_error_insufficient_seats_change_plan" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "組織のシート数が不足しているため、その人数のメンバーを招待できません。招待する人数に対応したプランに変更してください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您的組織沒有足夠的席次可邀請這麼多成員。請改用支援您要邀請人數的方案。"
+          }
+        }
+      }
+    },
+    "clerk_error_insufficient_seats_contact_support" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "組織のシート数が不足しているため、その人数のメンバーを招待できません。サポートにお問い合わせください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您的組織沒有足夠的席次可邀請這麼多成員。請聯絡支援。"
+          }
+        }
+      }
+    },
+    "clerk_error_network_error" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "インターネットに接続されていません。ネットワーク接続を確認して、もう一度お試しください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "沒有網際網路連線。請檢查您的網路連線後再試一次。"
+          }
+        }
+      }
+    },
+    "clerk_error_not_allowed_access" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "メールアドレスまたは電話番号は登録に使用できません。これは、'+', '=', '#' または '.' がメールアドレスに使用されているか、一時的な電子メールサービスに接続されたドメインが使用されているか、明示的な除外が行われているためです。エラーが発生した場合は、サポートに連絡してください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此電子郵件地址或電話號碼無法用於註冊。可能是因為地址中含有 '+'、'='、'#' 或 '.'，使用了臨時電子郵件服務的網域，或該網域已被排除。若您認為這是錯誤，請聯絡支援。"
+          }
+        }
+      }
+    },
+    "clerk_error_oauth_access_denied" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アカウントへのアクセスが許可されませんでした。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您未授權存取您的帳號。"
+          }
+        }
+      }
+    },
+    "clerk_error_organization_domain_blocked" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このメールプロバイダーのドメインはブロックされています。別のものを使用してください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "這個電子郵件供應商的網域已被封鎖，請改用其他網域。"
+          }
+        }
+      }
+    },
+    "clerk_error_organization_domain_common" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "これは一般的なメールプロバイダーのドメインです。別のものを使用してください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "這是常見的電子郵件供應商網域，請改用其他網域。"
+          }
+        }
+      }
+    },
+    "clerk_error_organization_domain_exists_for_enterprise_connection" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このドメインは組織の SSO で既に使用されています。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "這個網域已用於組織的 SSO。"
+          }
+        }
+      }
+    },
+    "clerk_error_organization_membership_quota_exceeded" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保留中の招待を含め、組織のメンバー数の上限に達しました。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您已達到組織成員資格的上限，包含尚未接受的邀請。"
+          }
+        }
+      }
+    },
+    "clerk_error_organization_minimum_permissions_needed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "必要な最小権限を持つ組織メンバーが少なくとも1人必要です。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "組織中必須至少有一位成員具備所需的最低權限。"
+          }
+        }
+      }
+    },
+    "clerk_error_organization_not_found_or_unauthorized" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "この組織のメンバーではなくなりました。別の組織を選択するか、新しく作成してください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您已不再是組織的成員。請選擇或建立另一個組織。"
+          }
+        }
+      }
+    },
+    "clerk_error_organization_not_found_or_unauthorized_with_create_organization_disabled" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "この組織のメンバーではなくなりました。別の組織を選択してください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您已不再是組織的成員。請選擇另一個組織。"
+          }
+        }
+      }
+    },
+    "clerk_error_passkey_already_exists" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このデバイスには既にパスキーが登録されています。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此裝置已註冊密碼金鑰。"
+          }
+        }
+      }
+    },
+    "clerk_error_passkey_not_supported" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このデバイスではパスキーはサポートされていません。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此裝置不支援密碼金鑰。"
+          }
+        }
+      }
+    },
+    "clerk_error_passkey_pa_not_supported" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "登録にはプラットフォーム認証器が必要ですが、このデバイスは対応していません。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "註冊需要平台驗證器，但此裝置不支援。"
+          }
+        }
+      }
+    },
+    "clerk_error_passkey_registration_cancelled" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "パスキーの登録はキャンセルされたか、タイムアウトしました。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "密碼金鑰註冊已取消或逾時。"
+          }
+        }
+      }
+    },
+    "clerk_error_passkey_retrieval_cancelled" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "パスキーの確認はキャンセルされたか、タイムアウトしました。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "密碼金鑰驗證已取消或逾時。"
+          }
+        }
+      }
+    },
+    "clerk_error_phone_number_exists" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "この電話番号は既に使用されています。別のものをお試しください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此電話號碼已被使用，請嘗試其他號碼。"
+          }
+        }
+      }
+    },
+    "clerk_error_protect_check_aborted" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "確認が中断されました。もう一度お試しください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "驗證已中斷，請再試一次。"
+          }
+        }
+      }
+    },
+    "clerk_error_protect_check_already_resolved" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "確認はすでに完了しています。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "驗證已經完成。"
+          }
+        }
+      }
+    },
+    "clerk_error_protect_check_execution_failed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "確認を完了できませんでした。もう一度お試しください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "驗證未完成，請再試一次。"
+          }
+        }
+      }
+    },
+    "clerk_error_protect_check_invalid_script" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "確認を読み込めませんでした。問題が続く場合はサポートにお問い合わせください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無法載入驗證。若問題持續發生，請聯絡支援。"
+          }
+        }
+      }
+    },
+    "clerk_error_protect_check_invalid_sdk_url" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "確認を開始できませんでした。サポートにお問い合わせください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無法開始驗證，請聯絡支援。"
+          }
+        }
+      }
+    },
+    "clerk_error_protect_check_script_load_failed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "確認を読み込めませんでした。ネットワークの問題か、確認用スクリプトをブロックするコンテンツセキュリティポリシーが原因の可能性があります。もう一度お試しいただくか、サポートにお問い合わせください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無法載入驗證。可能是網路問題，或是內容安全政策封鎖了驗證指令碼。請再試一次，或聯絡支援。"
+          }
+        }
+      }
+    },
+    "clerk_error_protect_check_timed_out" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "確認が時間内に完了しませんでした。もう一度お試しください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "驗證未能及時完成，請再試一次。"
+          }
+        }
+      }
+    },
+    "clerk_error_protect_check_unsupported_environment" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "この環境では確認を利用できません。標準的なブラウザで続けるか、サポートにお問い合わせください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此環境不支援驗證。請改用標準瀏覽器繼續，或聯絡支援。"
+          }
+        }
+      }
+    },
+    "clerk_error_session_exists" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "既にサインインしています。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您已經登入。"
+          }
+        }
+      }
+    },
+    "clerk_error_ticket_expired_code" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このリンクは有効期限が切れています。最初からやり直すか、新しいリンクをリクエストしてください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此連結已過期。請重新開始，或要求新的連結。"
+          }
+        }
+      }
+    },
+    "clerk_error_ticket_invalid_code" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このリンクは無効になったか、すでに使用されています。最初からやり直すか、新しいリンクをリクエストしてください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此連結已失效或已被使用。請重新開始，或要求新的連結。"
+          }
+        }
+      }
+    },
+    "clerk_error_too_many_requests" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "リクエストが多すぎます。しばらくしてからもう一度お試しください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請求次數過多。請稍後再試一次。"
+          }
+        }
+      }
+    },
+    "clerk_error_verification_expired" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "確認コードの有効期限が切れています。新しいコードをリクエストしてください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "驗證碼已過期。請重新取得驗證碼。"
+          }
+        }
+      }
+    },
+    "clerk_error_verification_failed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "確認に失敗しました。もう一度お試しください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "驗證失敗。請再試一次。"
+          }
+        }
+      }
+    },
+    "clerk_error_web3_missing_identifier" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Web3ウォレット拡張機能が見つかりません。続行するにはインストールしてください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "找不到 Web3 錢包擴充功能。請安裝以繼續。"
+          }
+        }
+      }
+    },
+    "clerk_error_web3_signature_request_rejected" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "署名リクエストを拒否しました。続行するにはもう一度お試しください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您已拒絕簽名請求。請再試一次以繼續。"
+          }
+        }
+      }
+    },
+    "clerk_error_web3_solana_signature_generation_failed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "署名の生成中にエラーが発生しました。続行するにはもう一度お試しください。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "產生簽名時發生錯誤。請再試一次以繼續。"
+          }
+        }
+      }
+    },
     "Close" : {
       "localizations" : {
         "ar" : {
