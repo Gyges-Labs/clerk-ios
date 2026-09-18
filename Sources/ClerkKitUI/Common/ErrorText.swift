@@ -15,7 +15,7 @@ struct ErrorText: View {
   var alignment: Alignment = .center
 
   init(error: Error, alignment: Alignment = .center) {
-    text = Text(verbatim: error.localizedDescription)
+    text = Text(verbatim: ClerkErrorLocalization.message(for: error))
     self.alignment = alignment
   }
 

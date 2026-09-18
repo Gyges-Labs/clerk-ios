@@ -37,7 +37,7 @@ struct ErrorView: View {
           .foregroundStyle(theme.colors.foreground)
           .frame(minHeight: 28)
 
-        Text(error.localizedDescription)
+        Text(verbatim: ClerkErrorLocalization.message(for: error))
           .font(theme.fonts.body)
           .foregroundStyle(theme.colors.mutedForeground)
           .fixedSize(horizontal: false, vertical: true)
