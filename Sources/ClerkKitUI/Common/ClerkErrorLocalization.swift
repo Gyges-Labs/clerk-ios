@@ -24,7 +24,10 @@ enum ClerkErrorLocalization {
   ///   - error: The error to describe. Errors that are not ``ClerkAPIError`` are described by
   ///     `localizedDescription`, which is already localized by whoever created them.
   ///   - bundle: The bundle holding the string catalog. Defaults to the SDK's own resource bundle.
-  ///   - locale: The locale to translate into. Defaults to the user's current locale.
+  ///   - locale: The locale to translate into. Defaults to the localization the bundle itself
+  ///     resolves to, so the copy matches the language the rest of the bundle's views render in:
+  ///     `Locale.current` follows the device's first language, which the bundle may not ship
+  ///     while a later preference is, and the two then disagree on one screen.
   static func message(for error: Error, bundle: Bundle = .module, locale: Locale? = nil) -> String {
     guard let apiError = error as? ClerkAPIError else {
       return error.localizedDescription
@@ -37,6 +40,14 @@ enum ClerkErrorLocalization {
     }
 
     return apiError.longMessage ?? apiError.message ?? apiError.localizedDescription
+  }
+
+  /// The locale a bundle's own views render in: its first preferred localization.
+  ///
+  /// Not `Locale.current`, which follows the device's first language even when the bundle does
+  /// not ship it and a later preference is; the two then disagree on one screen.
+  static func preferredLocale(of bundle: Bundle = .module) -> Locale {
+    Locale(identifier: bundle.preferredLocalizations.first ?? "en")
   }
 
   /// The catalog keys to try for `error`, most specific first.
@@ -61,7 +72,7 @@ enum ClerkErrorLocalization {
     let resource = LocalizedStringResource(
       String.LocalizationValue(stringLiteral: key),
       table: nil,
-      locale: locale ?? .current,
+      locale: locale ?? preferredLocale(of: bundle),
       bundle: .atURL(bundle.bundleURL),
       comment: ""
     )

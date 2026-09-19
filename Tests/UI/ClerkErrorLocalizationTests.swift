@@ -173,6 +173,19 @@ struct ClerkErrorLocalizationTests {
         == "Something unrelated went wrong."
     )
   }
+
+  @Test
+  func defaultsToTheBundlesPreferredLocalization() throws {
+    // `Locale.current` follows the device's first language even when the bundle does not ship it
+    // and a later preference is. The default must be the localization the bundle resolves to, so
+    // the error copy speaks the same language as the rest of the bundle's views.
+    let error = try apiError(passwordIncorrect)
+    let bundleLocale = ClerkErrorLocalization.preferredLocale()
+    #expect(
+      ClerkErrorLocalization.message(for: error)
+        == ClerkErrorLocalization.message(for: error, locale: bundleLocale)
+    )
+  }
 }
 
 #endif
