@@ -43,6 +43,7 @@ struct EmailLinkVerificationView: View {
     }
     .clerkErrorPresenting($error)
     .background(theme.colors.background)
+    .preGlassSolidNavBar()
     .taskOnce {
       await AuthFlowRequestScope.withOwner(authFlowRequestOwnerId) {
         await sendInitialLinkIfNeeded()

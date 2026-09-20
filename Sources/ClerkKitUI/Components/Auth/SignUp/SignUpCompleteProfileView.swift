@@ -143,6 +143,7 @@ struct SignUpCompleteProfileView: View {
     #if os(iOS)
     .navigationBarTitleDisplayMode(.inline)
     #endif
+    .preGlassSolidNavBar()
     .onFirstAppear {
       focused = firstEmptyMissingEnabledField() ?? firstMissingEnabledField()
     }

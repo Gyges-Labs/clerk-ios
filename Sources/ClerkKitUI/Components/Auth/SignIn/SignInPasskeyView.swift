@@ -95,6 +95,7 @@ struct SignInPasskeyView: View {
     }
     .clerkErrorPresenting($error)
     .background(theme.colors.background)
+    .preGlassSolidNavBar()
     .onFirstAppear {
       animateSymbol.toggle()
     }

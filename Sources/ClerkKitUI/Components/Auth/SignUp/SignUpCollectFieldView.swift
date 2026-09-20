@@ -165,6 +165,7 @@ struct SignUpCollectFieldView: View {
     #if os(iOS)
     .navigationBarTitleDisplayMode(.inline)
     #endif
+    .preGlassSolidNavBar()
   }
 }
 

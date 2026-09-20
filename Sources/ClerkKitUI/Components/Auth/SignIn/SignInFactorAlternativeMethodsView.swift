@@ -157,6 +157,7 @@ struct SignInFactorAlternativeMethodsView: View {
     }
     .clerkErrorPresenting($error)
     .background(theme.colors.background)
+    .preGlassSolidNavBar()
   }
 }
 

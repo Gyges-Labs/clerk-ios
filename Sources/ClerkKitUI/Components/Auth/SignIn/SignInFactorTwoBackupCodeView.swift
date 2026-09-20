@@ -93,6 +93,7 @@ struct SignInFactorTwoBackupCodeView: View {
       .padding(16)
     }
     .background(theme.colors.background)
+    .preGlassSolidNavBar()
     .sensoryFeedback(.error, trigger: fieldError?.localizedDescription) {
       $1 != nil
     }

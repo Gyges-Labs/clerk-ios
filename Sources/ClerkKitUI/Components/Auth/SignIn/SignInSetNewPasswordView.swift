@@ -144,6 +144,7 @@ struct SignInSetNewPasswordView: View {
       $1 != nil
     }
     .navigationBarBackButtonHidden()
+    .preGlassSolidNavBar()
   }
 }
 

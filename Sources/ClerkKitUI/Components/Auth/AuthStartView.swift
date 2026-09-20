@@ -273,6 +273,7 @@ struct AuthStartView: View {
     #endif
     .clerkErrorPresenting($generalError)
     .background(theme.colors.background)
+    .preGlassSolidNavBar()
     .sensoryFeedback(.error, trigger: fieldError?.localizedDescription) {
       $1 != nil
     }

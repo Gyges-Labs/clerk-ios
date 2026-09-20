@@ -74,6 +74,7 @@ struct GetHelpView: View {
       .padding(16)
     }
     .background(theme.colors.background)
+    .preGlassSolidNavBar()
   }
 }
 

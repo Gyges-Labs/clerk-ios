@@ -78,6 +78,7 @@ struct SignInFactorCodeView: View {
     #endif
     .clerkErrorPresenting($error)
     .background(theme.colors.background)
+    .preGlassSolidNavBar()
     .taskOnce {
       if signIn != nil, codeLimiter.isFirstRequest(for: codeLimiterIdentifier) {
         await prepare()

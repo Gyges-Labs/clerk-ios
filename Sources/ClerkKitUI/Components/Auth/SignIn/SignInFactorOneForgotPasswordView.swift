@@ -144,6 +144,7 @@ struct SignInFactorOneForgotPasswordView: View {
     }
     .clerkErrorPresenting($error)
     .background(theme.colors.background)
+    .preGlassSolidNavBar()
   }
 }
 

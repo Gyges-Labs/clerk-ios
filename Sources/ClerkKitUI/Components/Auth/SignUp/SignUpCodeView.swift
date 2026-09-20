@@ -160,6 +160,7 @@ struct SignUpCodeView: View {
     #if os(iOS)
     .navigationBarTitleDisplayMode(.inline)
     #endif
+    .preGlassSolidNavBar()
     .background(theme.colors.background)
     .clerkErrorPresenting(
       $error,
