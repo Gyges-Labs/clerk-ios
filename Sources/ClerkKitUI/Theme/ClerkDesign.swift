@@ -6,6 +6,7 @@
 #if os(iOS) || os(macOS)
 
 import Foundation
+import SwiftUI
 
 extension ClerkTheme {
   /// Design tokens that control layout and shape across ClerkKitUI views.
@@ -13,11 +14,38 @@ extension ClerkTheme {
     /// The default corner radius applied to ClerkKitUI surfaces.
     public var borderRadius: CGFloat
 
+    /// The corner radius applied to buttons only. When `nil`, buttons use ``borderRadius``.
+    ///
+    /// Set this to draw a pill-shaped call to action while text fields keep ``borderRadius``.
+    public var buttonRadius: CGFloat?
+
+    /// Whether the "Continue" button label shows its trailing icon.
+    public var showsContinueIcon: Bool
+
+    /// The weight applied to screen titles. When `nil`, titles stay bold.
+    public var titleWeight: Font.Weight?
+
+    /// Whether link-style text buttons are underlined.
+    public var linkUnderline: Bool
+
+    /// The weight applied to button labels. When `nil`, labels keep the weight of their font.
+    public var buttonFontWeight: Font.Weight?
+
     /// Creates design tokens used by ClerkKitUI views.
     public init(
-      borderRadius: CGFloat = Self.default.borderRadius
+      borderRadius: CGFloat = Self.default.borderRadius,
+      buttonRadius: CGFloat? = nil,
+      showsContinueIcon: Bool = true,
+      titleWeight: Font.Weight? = nil,
+      linkUnderline: Bool = false,
+      buttonFontWeight: Font.Weight? = nil
     ) {
       self.borderRadius = borderRadius
+      self.buttonRadius = buttonRadius
+      self.showsContinueIcon = showsContinueIcon
+      self.titleWeight = titleWeight
+      self.linkUnderline = linkUnderline
+      self.buttonFontWeight = buttonFontWeight
     }
   }
 }

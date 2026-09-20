@@ -30,7 +30,7 @@ struct HeaderView: View {
   var fontWeight: Font.Weight {
     switch style {
     case .title:
-      .bold
+      theme.design.titleWeight ?? .bold
     case .subtitle:
       .regular
     }

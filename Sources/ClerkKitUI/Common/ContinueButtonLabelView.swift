@@ -13,9 +13,11 @@ struct ContinueButtonLabelView: View {
   var body: some View {
     HStack(spacing: 4) {
       Text("Continue", bundle: .module)
-      Image("icon-triangle-right", bundle: .module)
-        .foregroundStyle(theme.colors.primaryForeground)
-        .opacity(0.6)
+      if theme.design.showsContinueIcon {
+        Image("icon-triangle-right", bundle: .module)
+          .foregroundStyle(theme.colors.primaryForeground)
+          .opacity(0.6)
+      }
     }
     .frame(maxWidth: .infinity)
     .overlayProgressView(isActive: isActive) {

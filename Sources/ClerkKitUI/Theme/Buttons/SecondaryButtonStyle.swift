@@ -45,6 +45,21 @@ struct SecondaryButtonStyle: ButtonStyle {
       : theme.colors.secondaryButtonBackground
   }
 
+  /// Whether this configuration renders as a link-style text button.
+  private var isLinkStyle: Bool {
+    switch (config.emphasis, config.size) {
+    case (.none, .small):
+      true
+    default:
+      false
+    }
+  }
+
+  /// The corner radius used for the button's shape, falling back to the shared border radius.
+  private var cornerRadius: CGFloat {
+    theme.design.buttonRadius ?? theme.design.borderRadius
+  }
+
   var borderWidth: CGFloat {
     switch config.emphasis {
     case .none:
@@ -81,20 +96,21 @@ struct SecondaryButtonStyle: ButtonStyle {
   func makeBody(configuration: Configuration) -> some View {
     configuration.label
       .font(font)
+      .underline(isLinkStyle && theme.design.linkUnderline)
       .foregroundStyle(foregroundStyle(configuration: configuration))
       .padding(8)
       .frame(minHeight: height)
       .background {
-        RoundedRectangle(cornerRadius: theme.design.borderRadius)
+        RoundedRectangle(cornerRadius: cornerRadius)
           .fill(backgroundColor(configuration: configuration))
           .overlay {
-            RoundedRectangle(cornerRadius: theme.design.borderRadius)
+            RoundedRectangle(cornerRadius: cornerRadius)
               .strokeBorder(borderColor, lineWidth: borderWidth)
           }
       }
       .background {
         if hasShadow {
-          RoundedRectangle(cornerRadius: theme.design.borderRadius)
+          RoundedRectangle(cornerRadius: cornerRadius)
             .fill(backgroundColor(configuration: configuration))
             .shadow(color: theme.colors.shadow, radius: 0.5, x: 0, y: 1)
             .opacity(0.30)
